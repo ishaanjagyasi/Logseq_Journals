@@ -1,0 +1,15 @@
+# 8th of June 2025
+	- Getting the [[Computer Vision]] things working in the [[amxd Patch]] has been a pain in the ass. But i think if i directly is the resources provided by https://cycling74.com/forums/n4m-facemesh-handpose-google-mediapipe this resource, it could definitely work!
+	- But with this resource, the main issue would be to get the ==**head rotation, pitch and other data**== working too
+	-
+	-
+-
+- # 11th June 2025
+	- Got a prototype for [[Computer Vision]] working which uses node.script to trigger the [[python script]] and get values from it through node-osc.
+	- Since I am already using a node script, i am guessing i can use another one for the speech model.
+		- TODO See if you can run two node.script js files at the same time!
+	-
+-
+- # 25th of June 2025
+	- Both #[[Computer Vision]] and #[[Speech to text]] scripts are working. Both are python scripts so they do take some time to load up.
+	- Will explore how to make these scripts more efficient in later builds but first need to figure out how to make it all work with the #[[Live Object Model (LOM)]].

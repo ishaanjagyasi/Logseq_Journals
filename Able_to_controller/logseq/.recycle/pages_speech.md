@@ -1,0 +1,8 @@
+- DONE See if you can run two node.script js files at the same time!
+-
+-
+-
+-
+- ## Ideas / Brainstorming / Thinking
+	- Since i am using one #node.script to trigger the python script, I should be able to run one more #node.script object for getting speech in.
+	-

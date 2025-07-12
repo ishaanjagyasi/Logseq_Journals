@@ -1,0 +1,1 @@
+- Getting more frustrated working with chatgpt than anything else. Not using chatgpt would help me more.

@@ -1,0 +1,15 @@
+# Goal
+	- The main goal of the project is to enable [[Ableton Control]] by #speech and #head-movements
+	- A plug and play [[amxd Patch]] which has all the dependencies embedded inside it, so that the user doesn't have to download anything particularly.
+-
+-
+- ## Working Principle - Initial thoughts
+	- You say a trigger words like "Track 1" and the device should be able to take you there.
+	- You can shift to next or previous track by rotating your head to the right or the left.
+	- You can trigger clips using Eyebrow up
+	- You can say "Volume" or "Pan" or "Send 1",  it will latch on to that control and control that specific parameter with #head-movements.
+	- It will use the Ableton's [[Live Object Model (LOM)]] to automatically determine which track it is on and also be able to drop a required plugin if needed.
+		- Wanna also see the possibility if I can also say "Auto-Filter", it will drop the device on the track. [[Speech to Plugin]]
+		- Then when you say "Filter", it will latch on to the filter's cutoff frequency.
+	-
+		-

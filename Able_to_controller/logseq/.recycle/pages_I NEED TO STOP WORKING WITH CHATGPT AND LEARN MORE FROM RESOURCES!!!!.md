@@ -1,0 +1,1 @@
+- I getting more demotivated by working with chatgpt than anything else.

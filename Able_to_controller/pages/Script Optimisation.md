@@ -1,0 +1,16 @@
+# Computer Vision
+	- Can potentially explore two options for optimisation of [[Computer Vision]] :-
+		- Converting the whole script into JavaScript or C++
+		- Just optimising the python script would also work since the libraries are already and since everything is packeted using the PyInstaller.
+-
+-
+-
+- # Speech to Text
+	- Can potentially explore two options for optimisation of [[Speech to text]] :-
+		- Converting the whole script into JavaScript or C++
+		- Just optimising the python script would also work since the libraries are already and since everything is packeted using the PyInstaller
+-
+-
+-
+- ## To Explore
+	- Can a JavaScript or C++ app be created through which we can do the

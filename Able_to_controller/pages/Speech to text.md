@@ -1,0 +1,8 @@
+- Right now I have an activation word "Hey Max". This activates a 3 seconds long buffer.
+	- ==**EXPLORE**== The buffer needs to be longer maybe 10 seconds so that the user can give longer commands.
+	- ==**EXPLORE**== The buffer could also be running continuously so that we can have kind of a live buffer going on.
+	-
+	-
+	-
+	-
+	-

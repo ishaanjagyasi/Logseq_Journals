@@ -1,0 +1,1 @@
+- You can run two node.script objects in max and trigger two different scripts at the same time! 🎉🎉

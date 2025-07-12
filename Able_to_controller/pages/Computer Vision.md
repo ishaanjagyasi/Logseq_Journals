@@ -1,0 +1,23 @@
+- https://cycling74.com/forums/n4m-facemesh-handpose-google-mediapipe
+- I thing using this resource would be the most efficient of all, rather than anything else.
+- Main things to extract from CV [[head-movements]] -
+	- ==**Head Yaw, Pitch, Roll**==
+	- ==**Head x, y, z**==
+	- ==**Eyebrow Up & Down**==
+- Final build of the CV module works in python using the ==**Google MediaPipe**== face landmarker.
+	- The script takes some time to load up because the ==**node.script**== object triggers a shell script that runs the python script and completely detaches from node.
+	- Despite this, I am able to get nice values out of it at a considerably smoother and low latency rates.
+- [[Script Optimisation]]
+	- Can potentially explore two options:-
+		- Converting the whole script into JavaScript or C++
+		- Just optimising the python script would also work since the libraries are already and since everything is packeted using the PyInstaller.
+	-
+	-
+	-
+-
+- DONE - 8th June 25
+	- Need to find how I can run my [[python script]] on a server (?) and simply receive the OSC values in the [[amxd Patch]]
+		- Search if there is a way to automatically trigger a pyhton script from within an [[amxd Patch]]
+	- Potentially found out that ***pyinstaller*** (https://pyinstaller.org/en/stable/) bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules.
+-
+-
