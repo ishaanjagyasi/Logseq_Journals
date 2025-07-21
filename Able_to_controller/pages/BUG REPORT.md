@@ -1,0 +1,3 @@
+- When you select the input as another track in the live session, there is an option to input channel as Post Mixer. Pre FX and Post FX works smoothly but the Post Mixer option doesn't work at all.
+-
+-

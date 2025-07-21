@@ -13,3 +13,9 @@
 - # 25th of June 2025
 	- Both #[[Computer Vision]] and #[[Speech to text]] scripts are working. Both are python scripts so they do take some time to load up.
 	- Will explore how to make these scripts more efficient in later builds but first need to figure out how to make it all work with the #[[Live Object Model (LOM)]].
+-
+- ## 21st July 2025
+	- Wasted too much time on doing the track input output routings but got them working not but with one bug reported in the [[BUG REPORT]]
+	- I should really fasten this process now because there are two many features that are still to be mapped using the LOM model and it is going to take some time to then map them with the [[Computer Vision]] and [[Speech to text]]
+	- Now the aim is to complete all the mixer parameters and then probably move forward to <u>Track Navigation</u> and then other features.
+	-

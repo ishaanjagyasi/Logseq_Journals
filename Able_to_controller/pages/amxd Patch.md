@@ -1,6 +1,7 @@
 - Two main data streams to get inside the patch -
 	- [[Computer Vision]]
 	- [[Speech to text]]
-- The [[Control Options]]
+- The [[Control Options]] main available through the [[Live Object Model (LOM)]]
 	-
 	-
+-
