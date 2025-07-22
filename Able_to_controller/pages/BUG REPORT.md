@@ -1,3 +1,5 @@
 - When you select the input as another track in the live session, there is an option to input channel as Post Mixer. Pre FX and Post FX works smoothly but the Post Mixer option doesn't work at all.
+- When mute is active on one track and you switch to another track, the mute gets deactivated on the previously selected track. Same for Record Arm - ==SOLVED==
+-
 -
 -
