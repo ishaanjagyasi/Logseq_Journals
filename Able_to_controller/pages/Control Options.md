@@ -18,6 +18,7 @@
 		- <u>Track Mute</u>
 		- <u>Track Record Arm</u>
 		- <u>Track Pan</u>
+		- <u>Selective Send Control</u> User can select send number (1 to 12) and can then control the send amount!
 		- <u>Track shifting/Selection</u> Track call depending on the track name or shift using head tilt.
 		-
 		-
