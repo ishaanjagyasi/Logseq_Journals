@@ -19,7 +19,9 @@
 		- <u>Track Record Arm</u>
 		- <u>Track Pan</u>
 		- <u>Selective Send Control</u> User can select send number (1 to 12) and can then control the send amount!
-		- <u>Track shifting/Selection</u> Track call depending on the track name or shift using head tilt.
+		- <u>Track shifting/Selection</u> Track call depending on the track name (==explore possible options of shifting to next track using head tilt==)
+		- <u> Adding new track</u>: Depending on the index of the currently selected track, we can create an audio track, midi track or a return track!
+		-
 		-
 		-
 		-
