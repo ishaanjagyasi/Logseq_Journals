@@ -21,5 +21,5 @@
 -
 - ## 25th July 2025
 	- All the parameters of the mixer channel have been mapped! There are some bugs reported in the [[BUG REPORT]] but its a more irrelevant bug which would be used by some users, or maybe not even!
-	- Feature to select track based on the track name has been added but I can see that the speech to text model wouldn't do such a great task at listening to track names precisely. I think I might have to use [[RegExp for Search]]
+	- Feature to select track based on the track name has been added but I can see that the speech to text model wouldn't do such a great task at listening to track names precisely.
 	- Added a feature to add Audio/MIDI track before a the currently selected track and create a return track as well.

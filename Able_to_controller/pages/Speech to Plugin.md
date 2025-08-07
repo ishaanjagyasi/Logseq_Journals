@@ -1,0 +1,10 @@
+- I was able to make this work by using a python script to create a  Control Surface that can look into the Ableton live API.
+- You can basically create one click interface for native ableton plugins. For example, i can just say Analog and it will drop the plugin on my currently selected track and so on.
+- Here we can use the [[Speech to text]] element to just say the name of the plugin and drop it on the currently selected track.
+- How does it work?
+	- STEPS REQUIRED TO GET THE PLUGIN LOADER WORKING! (Working for Live 12)
+		- Make sure that the "DeviceLoader" Folder for Control Surface script is placed in the location specified by Ableton Live official website - https://help.ableton.com/hc/en-us/articles/209072009-Installing-third-party-remote-scripts
+			- For my current laptop it should be placed in "Users/ishaanjagyasi/Music/Ableton/User Library/Remote Scripts"
+			- I have created a new folder called "DeviceLoader" and inside it there is the py and init file.
+		- You have to then set the control surface as "DeviceLoader" under MIDI setup in Ableton Live.
+		- After this you have to send it calls through the Max Device called Device Loader (NO NEED FOR MIDI MAX FOR LIVE DEVICE OR ANYTHING LIKE THAT!!)
